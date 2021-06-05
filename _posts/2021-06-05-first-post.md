@@ -1,4 +1,5 @@
 ---
+layout: posts
 title: "Test post: first post"
 categories:
   - None
